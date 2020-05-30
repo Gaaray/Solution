@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfb98f8-5405-49b4-8dc8-58112d11839b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/solution_1379.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cc/c_45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cc/c_45.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cW1YQH0pPXnpBjEcRIvFWcXSu8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -122,7 +124,8 @@
       <workItem from="1590668887413" duration="2103000" />
       <workItem from="1590737477795" duration="36000" />
       <workItem from="1590743714625" duration="847000" />
-      <workItem from="1590751276328" duration="1789000" />
+      <workItem from="1590751276328" duration="2467000" />
+      <workItem from="1590814684762" duration="3527000" />
     </task>
     <servers />
   </component>
