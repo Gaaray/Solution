@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfb98f8-5405-49b4-8dc8-58112d11839b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/solution_71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/solution_101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/solution_96.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Solution/leetcode/solution_71.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Solution/leetcode/solution_71.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution_71">
+  <component name="RunManager" selected="Application.solution_96">
     <configuration name="c_45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cc.c_45" />
       <module name="Solution" />
@@ -61,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution_394" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.solution_394" />
+    <configuration name="solution_71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.solution_71" />
       <module name="Solution" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution_71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.solution_71" />
+    <configuration name="solution_96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.solution_96" />
       <module name="Solution" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution_96" />
         <item itemvalue="Application.solution_71" />
         <item itemvalue="Application.c_45" />
         <item itemvalue="Application.soulution_14" />
         <item itemvalue="Application.soulution_6" />
-        <item itemvalue="Application.solution_394" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +142,8 @@
       <workItem from="1590743714625" duration="847000" />
       <workItem from="1590751276328" duration="2467000" />
       <workItem from="1590814684762" duration="6955000" />
-      <workItem from="1590841057560" duration="248000" />
+      <workItem from="1590841057560" duration="1408000" />
+      <workItem from="1590904302184" duration="1514000" />
     </task>
     <servers />
   </component>
@@ -174,9 +177,9 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/solution_71.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="16" />
+          <url>file://$PROJECT_DIR$/src/leetcode/solution_96.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
