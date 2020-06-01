@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfb98f8-5405-49b4-8dc8-58112d11839b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/solution_101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/solution_96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/q_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Solution/leetcode/solution_71.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Solution/leetcode/solution_71.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +141,8 @@
       <workItem from="1590751276328" duration="2467000" />
       <workItem from="1590814684762" duration="6955000" />
       <workItem from="1590841057560" duration="1408000" />
-      <workItem from="1590904302184" duration="1514000" />
+      <workItem from="1590904302184" duration="2978000" />
+      <workItem from="1590929643792" duration="1217000" />
     </task>
     <servers />
   </component>
